@@ -1,0 +1,52 @@
+*{
+    padding: 0 !important;
+    margin: 0 !important;
+    box-sizing: border-box !important;
+}
+.my-color{
+    background-color: rgba(22,51,109,255);
+}
+.my-text-color{
+    color: rgba(22,51,109,255);
+}
+.nav-link{
+    color: white;
+}
+.nav-link{
+    color: white !important;
+}
+.nav-link:hover{
+    opacity: 0.8;
+}
+.my-nav{
+    position: sticky;
+    top: 0 !important;
+    left: 0 !important;
+    z-index: 1000;
+}
+.nav-2{
+    background-color: purple;
+}
+tr td{
+    padding-top: 10px !important;
+    text-align: justify;
+}
+tr td p{
+    padding-top: 10px !important;
+}
+.vision{
+    text-align: justify;
+}
+.mission{
+    text-align: justify;
+}
+.programme{
+    text-align: justify;
+}
+.my-lg-1{
+    margin-top: 3px !important;
+    margin-bottom: 3px !important;
+}
+tr td{
+    padding:15px !important;
+}
