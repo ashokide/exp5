@@ -1,4 +1,10 @@
 # KEC IT Page Clone 
-### nodejs express => render
+
+#### Tech Stack
+- Nodejs
+- Express
+
+#### Hosting
+- Render 
 
 Link: https://exp5-dj25.onrender.com
